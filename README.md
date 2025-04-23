@@ -24,7 +24,7 @@ Here are some of the projects I’ve worked on:
 
 ## 🛠️ Technical Skills
 
-- **Database Systems**: MySQL, PostgreSQL, SQL Server
+- **Database Systems**: SQL Server, MySQL, PostgreSQL
 - **Query Optimization**: Indexing, Execution Plans, Partitioning
 - **Data Modeling**: ERD, Normalization, Schema Design
 - **ETL Tools**: SSIS
