@@ -39,4 +39,4 @@ I’m always open to discussing database development, collaboration opportunitie
 
 ## 🌟 Fun Fact
 
-When I’m not writing SQL queries, I enjoy playing Tennis, exploring new data technologies.
+When I’m not writing SQL queries, I enjoy playing Tennis  and exploring new data technologies.
